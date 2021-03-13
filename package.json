@@ -2,7 +2,7 @@
   "name": "gmod-status-helper-sherwood",
   "version": "1.0.0",
   "description": "Gmod Fivem gibi sunucularda kolayca status çekmenizi sağlar!",
-  "main": "main.js",
+  "main": "shw.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
