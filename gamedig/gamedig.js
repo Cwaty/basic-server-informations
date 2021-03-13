@@ -6,7 +6,6 @@ client.on('ready', () => {
 console.log(`Bota giriş sağladım - Sherwood ❤ ${client.user.tag}!`);
 });
 
-const Gamedig = require('gamedig');
 Gamedig.query({
     type: 'Sherwood ', //// Buraya sunucunuzun türünü örnek : Gmod , Fivem , Minecraft
     host: 'Sherwood X Wizardry' ////// Buraya sunucunuzun hostunu
