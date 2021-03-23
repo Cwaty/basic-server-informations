@@ -6,7 +6,7 @@ client.on('ready', () => {
   console.log(`Bota giriş sağladım - Sherwood ❤ ${client.user.tag}!`);
 });
 
-
+////////////////// Api keyi incele yapıp apiyi arattığınız zaman bulabilirsiniz
 let SunucunuzunID  = "" ///// Buraya sunucunuzun api adresini (index.php?id=')'den sonrasını giriyorsunuz!
 
 client.on('message', message => {
