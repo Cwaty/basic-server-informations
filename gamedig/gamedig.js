@@ -17,7 +17,7 @@ Gamedig.query({
     ///// 2. bir nokta üstte girdiğimiz state.connect , state.ping gibi değişkenler sunucu kapandığı zaman çalışmaz , ondan dolayı bilgileri buraya state.ping olarak değil de elinizle yazmanız gerekir genelde 
     /// örnek : message.channel.send(new MessageEmbed().setDescription(`Sunucunun IP adresi : 111.111.111 , Sunucunun haritası : Harita adı.`)) gibi şeyleri elinizle girebilirsiniz
     //// genelde botun durumunu ayarlamak için bu modül kullanılır kullanıcı sayısı [0 / maxplayer] olduğu zaman oyuncuların kafası karışabilir ondan dolayı botun durumu olarak kullanıcaksanız **Sunucu Kapalı** olarak kullanmanızı tavsiye ederim.
-    console.log("Sunucu aktif değil!");
+    console.log("Sunucu aktif değil!") 
 });
 
 
