@@ -31,7 +31,10 @@ client.on('message', message => {
                   status += '*Sunucuda kimse oynamamakta*';
               }
           }
-          message.channel.send(`${status}`); //// Buraları kafanıza göre tasarlayabilirsiniz!
+          message.channel.send(`${status.name} adlı sunucunun verileri${status}`); //// Buraları kafanıza göre tasarlayabilirsiniz!
+        //// Sunucu verilerini apiden çekmenizi çok önermiyorum , sunucu her kapanıp açıldığında api key res yediği için elle girmek azıcık uğraştırıyor
+        //// Özellikle ready eventinde bu modülü kullanmayın. Botun durumu aktif olarak değişmediğinden dolayı hata alırsınız. botu açtığınız zaman sunucuda kaç kişi varsa hep o kalır.
+        //// Api olarak çektirdiğimiz için buraları kendi kafanıza göre ayarlayabilirsiniz , örnek kullanıcıların istatistiği ve oynama süreleri gibi
       });
   }
 });
