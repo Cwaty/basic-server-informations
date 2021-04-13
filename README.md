@@ -2,3 +2,4 @@
 </li> Bugün size Fivem , Gmod , Minecraft sunucularından nasıl kolayca veri çekebileceğinizi anlattım umarım faydalı olmuştur. </li>
 <br /><br />
 <img src="https://shw.is-inside.me/63EuoIbl.png" alt="!ip // wizardry"/>
+Ekran fotoğrafında gördüğünüz sunucu istatistik komutu gamedig modülüne aittir!
