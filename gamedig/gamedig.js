@@ -11,7 +11,8 @@ client.on('message' ,message => { ///// Bu eventi isteğinize göre düzenleyebi
     if(message.content === "istediğiniz bir şey!")
 Gamedig.query({
     type: 'Sherwood ', //// Buraya sunucunuzun türünü örnek : Gmod , Fivem , Minecraft
-    host: 'Sherwood X Wizardry' ////// Buraya sunucunuzun hostunu
+    host: 'Sherwood X Wizardry', ////// Buraya sunucunuzun hostunu
+    port: '00000' ////// Buraya sunucunuzun portunu giriyorsunuz. Port ip adresinin :'den sonra bulunan sayılar ÖRNEK : 00.000.00000:(00000) 
 }).then((state) => {
     ////// buraya istediğiniz örnek bir şeyi girebilirsiniz:
     //// örnek message.channel.send(`${state.connect} (Sunucunun ip adresini gösterir) 2. bir örnek verelim ${state.ping} (Sunucunun pingini gösterir)`)
