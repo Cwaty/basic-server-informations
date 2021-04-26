@@ -11,7 +11,7 @@ let SunucunuzunID  = "" ///// Buraya sunucunuzun api adresini (index.php?id=')'d
 
 client.on('message', message => {
   if (message.content === "İstediğiniz") {
-      var url = 'https://api.trackyserver.com/widget/index.php?id=' + gmServerID;
+      var url = 'https://api.trackyserver.com/widget/index.php?id=' + SunucunuzunID;
       request(url, function(err, response, body) {
           if(err) {
               console.log(err);
