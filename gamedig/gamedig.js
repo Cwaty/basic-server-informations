@@ -3,7 +3,7 @@ const gamedig = require("gamedig")
 const client = new Discord.Client();
 
 client.on('ready', () => {
-console.log(`Bota giriş sağladım - Sherwood ❤ ${client.user.tag}!`);
+console.log(`Durum botu aktif : ${client.user.tag} `);
 });
 
 
