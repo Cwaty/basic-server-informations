@@ -5,3 +5,5 @@
 
 > Aşağıda verilen ekran fotoğrafı sunucuda olan oyuncuları görmenizi sağlar
 <img src= "https://cdn.discordapp.com/attachments/742782755405824160/880429743026081862/testplayers.png" alt= "testoyuncular"> 
+
+</p> Destek & Öneri ve şikayetler için aşağıda belirtilen Discord profilime dm atabilirsiniz. </p>
