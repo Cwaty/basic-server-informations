@@ -8,5 +8,5 @@
 
 </p> Destek & Öneri ve şikayetler için aşağıda belirtilen Discord profilime dm atabilirsiniz. </p>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304?theme=light&bg=07a23c&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/338768594899042304)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/338768594899042304?theme=light&bg=c52929&animated=false&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/338768594899042304)
 
