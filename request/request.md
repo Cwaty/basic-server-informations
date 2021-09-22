@@ -1,1 +1,2 @@
-Selam paylaştığım alt yapıda GMOD - FIVEM gibi sunucularda sunucunuzun durumunu botlarınıza nasıl yansıtabileceğinizi 2 farklı türde anlatmaya çalıştım umarım yararlı olmuştur <3
+Selam,
+Örnek kodlarını gösterdiğim modülde kolayca oyun sunucularından nasıl veri çekebileceğinizi anlattım , daha detaylı bilgi için npm sitesinden gamedig modülünüzü aramanızı öneririm.
